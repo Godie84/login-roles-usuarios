@@ -6,9 +6,9 @@ Este proyecto es una solución web login para el acceso a una plataforma con ges
 
 ## Características
 
-- **Autenticacion**: Los empleados pueden solicitar permisos indicando el motivo, las fechas, y cualquier comentario adicional.
-- **Gestión de contraseñas**: Los administradores pueden aprobar o rechazar solicitudes, así como revisar el historial de permisos.
-- **Tipo de cifrado**: Hash MD5.
+- **Autenticacion:** Autenticación basada en contraseña
+- **Gestión de contraseñas:** Metodo de restablecimiento de contraseña por correo electrónico
+- **Tipo de cifrado:** Hash MD5.
 
 ## Capturas de pantalla:
 
@@ -44,7 +44,7 @@ Este proyecto es una solución web login para el acceso a una plataforma con ges
 1. Clona el repositorio:
 
    ```bash
-   git clone <https://github.com/tuusuario/nombre-del-proyecto.git>
+   git clone https://github.com/Godie84/login-roles-usuarios.git
    cd nombre-del-proyecto
 
 ## Uso
