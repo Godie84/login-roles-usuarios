@@ -1,5 +1,4 @@
-# login-password-reset
-Solución web para login de plataforma web, con gestion de usuarios, roles de usuarios, restablecimiento de contraseña por correo electrónico y control de sesiones
+# Login password reset
 
 ## Descripción
 
@@ -39,3 +38,33 @@ Este proyecto es una solución web login para el acceso a una plataforma con ges
 
 - Versión de PHP: 8.0.28
 - 10.4.28-MariaDB - mariadb.org
+
+## Instalación
+
+1. Clona el repositorio:
+
+   ```bash
+   git clone <https://github.com/tuusuario/nombre-del-proyecto.git>
+   cd nombre-del-proyecto
+
+## Uso
+
+1. **inicio de sesión**: Los usuarios pueden autenticarse en la aplicación.
+2. **Gestión de contraseñas**: Los usuarios pueden generar o restablecer la contraseña por medio del correo electrónico registrado por el administrador de la aplicación 
+3. **Notificaciones**: El sistema notificará al usuario sobre el restablecimiento de la contraseña por medio del correo electrónico registrado en la aplicación
+
+
+## Licencia
+
+Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo `LICENSE` para más detalles.
+
+## Contacto
+
+**Diego Fernando Reina Ramírez**
+
+Email: [diego.reina9@hotmail.com](mailto:diego.reina9@hotmail.com)
+
+LinkedIn: [tu-perfil-linkedin](https://linkedin.com/in/tu-perfil-linkedin)
+
+GitHub: [tu-usuario-github](https://github.com/tu-usuario-github)
+
